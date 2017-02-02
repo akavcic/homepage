@@ -1,0 +1,27 @@
+HTTrack3.48-21 launched on Wed, 01 Feb 2017 17:21:31 at http://www-ee.eng.hawaii.edu/~alek/
+(winhttrack http://www-ee.eng.hawaii.edu/~alek/ -O "/Users/pedrovmoura/Documents/Code/alek/alek" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:21:32	Warning: 	Found for www-ee.eng.hawaii.edu/robots.txt
+17:21:32	Warning: 	File has moved from www-ee.eng.hawaii.edu/robots.txt to http://ee.hawaii.edu/content.php?pag=11
+17:34:55	Warning: 	file not stored in cache due to bogus state (broken size, expected 2232527 got 1974272): www-ee.eng.hawaii.edu/~alek/class_handouts/HW9_sol.PDF
+17:34:56	Warning: 	file not stored in cache due to bogus state (broken size, expected 2424061 got 819200): www-ee.eng.hawaii.edu/~alek/ee615_handouts/Sol_HW2.PDF
+17:34:57	Warning: 	file not stored in cache due to bogus state (broken size, expected 2211728 got 1712128): www-ee.eng.hawaii.edu/~alek/class_handouts/HW10_sol.PDF
+17:34:57	Warning: 	file not stored in cache due to bogus state (broken size, expected 2356560 got 1507328): www-ee.eng.hawaii.edu/~alek/ee615_handouts/Sol_HW1.PDF
+17:42:44	Warning: 	Retry after error -4 (Incorrect length (1974272 Bytes, 2232527 expected)) at link www-ee.eng.hawaii.edu/~alek/class_handouts/HW9_sol.PDF (from www-ee.eng.hawaii.edu/~alek/classes.html)
+17:46:37	Warning: 	Retry after error -4 (Incorrect length (1712128 Bytes, 2211728 expected)) at link www-ee.eng.hawaii.edu/~alek/class_handouts/HW10_sol.PDF (from www-ee.eng.hawaii.edu/~alek/classes.html)
+17:46:54	Warning: 	Retry after error -4 (Incorrect length (1507328 Bytes, 2356560 expected)) at link www-ee.eng.hawaii.edu/~alek/ee615_handouts/Sol_HW1.PDF (from www-ee.eng.hawaii.edu/~alek/ee615.html)
+17:48:46	Warning: 	Retry after error -4 (Incorrect length (819200 Bytes, 2424061 expected)) at link www-ee.eng.hawaii.edu/~alek/ee615_handouts/Sol_HW2.PDF (from www-ee.eng.hawaii.edu/~alek/ee615.html)
+18:04:55	Warning: 	file not stored in cache due to bogus state (broken size, expected 2989880 got 1187840): www-ee.eng.hawaii.edu/~alek/Archive/2011/CIM2011.pdf
+18:04:56	Warning: 	file not stored in cache due to bogus state (broken size, expected 3938063 got 1630208): www-ee.eng.hawaii.edu/~alek/Archive/2012/tit2012.pdf
+18:04:56	Warning: 	file not stored in cache due to bogus state (broken size, expected 5502908 got 2351104): www-ee.eng.hawaii.edu/~alek/Archive/2013/tit2013.pdf
+18:48:24	Warning: 	Retry after error -4 (Incorrect length (2351104 Bytes, 5502908 expected)) at link www-ee.eng.hawaii.edu/~alek/Archive/2013/tit2013.pdf (from www-ee.eng.hawaii.edu/~alek/archive.html)
+18:49:16	Warning: 	Retry after error -4 (Incorrect length (1630208 Bytes, 3938063 expected)) at link www-ee.eng.hawaii.edu/~alek/Archive/2012/tit2012.pdf (from www-ee.eng.hawaii.edu/~alek/archive.html)
+18:49:55	Warning: 	Retry after error -4 (Incorrect length (1187840 Bytes, 2989880 expected)) at link www-ee.eng.hawaii.edu/~alek/Archive/2011/CIM2011.pdf (from www-ee.eng.hawaii.edu/~alek/archive.html)
+
+HTTrack Website Copier/3.48-21 mirror complete in 1 hours 36 minutes 14 seconds : 248 links scanned, 240 files written (131810817 bytes overall) [143083349 bytes received at 24780 bytes/sec], 1.1 requests per connection
+(No errors, 16 warnings, 0 messages)
